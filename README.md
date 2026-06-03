@@ -1,4 +1,4 @@
-# nfluenza Forecasting Across US Regions Using Epidemiological and Time-Series Models
+# Influenza Forecasting Across US Regions Using Epidemiological and Time-Series Models
 
 ## Project Overview
 
@@ -371,6 +371,5 @@ The study reinforces the value of evaluating multiple forecasting approaches rat
 * Statsmodels
 * Prophet
 * Scikit-learn
-* Jupyter Notebook
 
 ---
